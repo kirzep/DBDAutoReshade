@@ -5,7 +5,7 @@
 <h1>AutoReshade</h1>
 <p>Автоматическая смена пресетов ReShade в Dead by Daylight</p>
 
-<a href="https://github.com/kirzep/DBDAutoReshade/releases/download/v0.3.6/AutoReshade-0.3.6-windows-x64-setup.exe"><img src="https://img.shields.io/badge/Скачать-Windows%20x64-28764C?style=for-the-badge" alt="Скачать установщик для Windows x64"></a>
+<a href="https://github.com/kirzep/DBDAutoReshade/releases/download/v0.3.7/AutoReshade-0.3.7-windows-x64-setup.exe"><img src="https://img.shields.io/badge/Скачать-Windows%20x64-28764C?style=for-the-badge" alt="Скачать установщик для Windows x64"></a>
 
 <p><a href="README.md">English</a> · <a href="https://github.com/kirzep/DBDAutoReshade/releases/latest">Portable ZIP и файлы выпуска</a></p>
 
@@ -34,10 +34,11 @@
 
 Нужны **Windows 10 или 11 x64**, Dead by Daylight и установленный ReShade. Для распознавания карт выберите **английский язык игры**. Интерфейс AutoReshade доступен на русском и английском.
 
-## Что нового в 0.3.6
+## Что нового в 0.3.7
 
-- Улучшено распознавание лобби и экрана результатов при активном пресете карты.
-- Добавлено предупреждение, если язык игры отличается от английского.
-- Индикатор карты в игре выключен по умолчанию. При включении он показывает названия карт на английском.
+- Изменения пресетов автоматически записываются в ReShade.ini при закрытой DBD. Если игра запущена, изменения применятся после её закрытия.
+- Поиск пресетов позволяет выбрать однозначные замены сразу для нескольких карт или измерений.
+- В настройках видна текущая версия и доступна ручная проверка обновлений.
+- Во вкладке «Твики» появилась более компактная панель установки VirtualResolution.
 
 [Сообщить об ошибке](https://github.com/kirzep/DBDAutoReshade/issues)
