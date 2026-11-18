@@ -5,7 +5,7 @@
 <h1>AutoReshade</h1>
 <p>Automatic ReShade preset switching for Dead by Daylight</p>
 
-<a href="https://github.com/kirzep/DBDAutoReshade/releases/download/v0.3.7/AutoReshade-0.3.7-windows-x64-setup.exe"><img src="https://img.shields.io/badge/Download-Windows%20x64-28764C?style=for-the-badge" alt="Download the Windows x64 installer"></a>
+<a href="https://github.com/kirzep/DBDAutoReshade/releases/download/v0.3.8/AutoReshade-0.3.8-windows-x64-setup.exe"><img src="https://img.shields.io/badge/Download-Windows%20x64-28764C?style=for-the-badge" alt="Download the Windows x64 installer"></a>
 
 <p><a href="README.ru.md">Русская версия</a> · <a href="https://github.com/kirzep/DBDAutoReshade/releases/latest">Portable ZIP and release files</a></p>
 
@@ -34,11 +34,11 @@ Use different ReShade presets for different maps and tired of switching them by 
 
 Requires **Windows 10 or 11 x64**, Dead by Daylight, and ReShade. Set the game language to **English** so AutoReshade can recognize map names. The app interface is available in English and Russian.
 
-## What's new in 0.3.7
+## What's new in 0.3.8
 
-- Preset changes update ReShade.ini automatically when DBD is closed. Changes made during play are applied after the game closes.
-- Find Presets can select clear replacements in bulk, even when a preset is already assigned.
-- Settings shows the installed version and lets you check for updates.
-- The VirtualResolution panel offers a clear install action when the shader is missing.
+- The manual preset picker groups matches for the current map or realm at the top.
+- Find Presets puts locations with multiple matches first. You can skip any of those choices.
+- The Realms page is simpler, with the status legend beside search and a map collage behind each realm preset.
+- Updated the artwork for Ormond Lake Mine and both Raccoon City wings.
 
 [Report an issue](https://github.com/kirzep/DBDAutoReshade/issues)
