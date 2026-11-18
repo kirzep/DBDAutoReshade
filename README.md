@@ -1,21 +1,50 @@
-# AutoReshade для Dead by Daylight
+<div align="center">
 
-AutoReshade распознаёт карту и переключает ReShade на выбранный вами пресет. Назначайте пресеты для отдельных карт, целых измерений и главного меню.
+<img src="assets/autoreshade.png" width="96" height="96" alt="Логотип AutoReshade">
 
-[Скачать установщик для Windows x64](https://github.com/kirzep/DBDAutoReshade/releases/latest) · [Сообщить об ошибке](https://github.com/kirzep/DBDAutoReshade/issues)
+<h1>AutoReshade</h1>
+<p>Автоматическая смена пресетов ReShade в Dead by Daylight</p>
 
-Нужны Windows 10 или 11 (64 бита), Dead by Daylight и установленный ReShade. Для распознавания карт выберите английский язык игры. Интерфейс AutoReshade доступен на русском и английском.
+<a href="https://github.com/kirzep/DBDAutoReshade/releases/download/v0.3.6/AutoReshade-0.3.6-windows-x64-setup.exe"><img src="https://img.shields.io/badge/Скачать-Windows%20x64-28764C?style=for-the-badge" alt="Скачать установщик для Windows x64"></a>
 
-1. Скачайте файл `-setup.exe` из раздела **Assets** последнего выпуска и запустите его.
-2. Откройте AutoReshade, пройдите мастер настройки и укажите папку со своими пресетами.
-3. Назначьте пресеты картам или измерениям и включите автопереключение.
+<p><a href="https://github.com/kirzep/DBDAutoReshade/releases/latest">Все файлы последнего выпуска и portable ZIP</a> · <a href="#english">English</a></p>
 
-Обновления проверяются автоматически, в том числе при работе в трее. При появлении новой версии рядом с логотипом внизу окна появится кнопка. По нажатию AutoReshade скачает и проверит пакет, установит обновление и перезапустится. Настройки и назначения сохраняются.
+</div>
+
+---
+
+Настройте пресеты один раз. AutoReshade распознаёт карту, подбирает назначенный пресет и возвращает пресет меню в лобби или на экране результатов.
+
+| Что можно сделать | Как это помогает |
+| --- | --- |
+| Назначить пресеты картам, измерениям и меню | Используйте общий пресет измерения и отдельные настройки для выбранных карт. |
+| Быстро сменить пресет вручную | Откройте игровую панель клавишей End. Сочетание можно изменить. |
+| Обновиться из приложения | Нажмите кнопку рядом с логотипом, когда появится новая версия. Настройки и назначения сохранятся. |
+
+## Установка
+
+1. Скачайте установщик по кнопке вверху и запустите его.
+2. В мастере настройки укажите папку игры и папку со своими пресетами ReShade.
+3. Назначьте пресеты и включите автоматическое переключение.
+
+Нужны **Windows 10 или 11 x64**, Dead by Daylight и установленный ReShade. Для распознавания карт выберите **английский язык текста игры**. Интерфейс AutoReshade доступен на русском и английском.
+
+## Что нового в 0.3.6
+
+- Улучшено распознавание лобби и экрана результатов при активном пресете карты.
+- При обнаружении другого языка игры приложение предложит переключить её на английский.
+- Индикатор карты в игре выключен по умолчанию. При включении он показывает игровые названия на английском.
 
 ## English
 
-AutoReshade detects the current Dead by Daylight map and switches ReShade to the preset you assigned. Set presets for individual maps, realms, or the main menu.
+AutoReshade switches your ReShade presets automatically as you enter a map or return to the lobby or scoreboard. Assign presets to maps, realms, and the menu. Use the in-game panel for manual switching or update through the button beside the AutoReshade logo.
 
-[Download for Windows x64](https://github.com/kirzep/DBDAutoReshade/releases/latest) · [Report an issue](https://github.com/kirzep/DBDAutoReshade/issues)
+**[Download the Windows x64 installer](https://github.com/kirzep/DBDAutoReshade/releases/download/v0.3.6/AutoReshade-0.3.6-windows-x64-setup.exe)** or [browse release files](https://github.com/kirzep/DBDAutoReshade/releases/latest). Requires Windows 10/11 x64, Dead by Daylight, and ReShade. Set in-game text to English for map recognition, then follow the setup wizard and assign your presets.
 
-Requires Windows 10 or 11 (64-bit), Dead by Daylight, and ReShade. Set the game language to English for map recognition. Download the `-setup.exe` file under **Assets**, then follow the setup wizard and assign your presets. When a new version is available, use the update button beside the AutoReshade logo. The app installs the update and restarts, keeping your settings.
+---
+
+<div align="center">
+
+<a href="https://github.com/kirzep/DBDAutoReshade/issues">Сообщить об ошибке · Report an issue</a>
+
+</div>
