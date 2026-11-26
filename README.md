@@ -5,7 +5,7 @@
 <h1>AutoReshade</h1>
 <p>Automatic ReShade preset switching for Dead by Daylight</p>
 
-<a href="https://github.com/kirzep/DBDAutoReshade/releases/download/v0.3.9/AutoReshade-0.3.9-windows-x64-setup.exe"><img src="https://img.shields.io/badge/Download-Windows%20x64-28764C?style=for-the-badge" alt="Download the Windows x64 installer"></a>
+<a href="https://github.com/kirzep/DBDAutoReshade/releases/download/v0.3.10/AutoReshade-0.3.10-windows-x64-setup.exe"><img src="https://img.shields.io/badge/Download-Windows%20x64-28764C?style=for-the-badge" alt="Download the Windows x64 installer"></a>
 
 <p><a href="README.ru.md">Русская версия</a> · <a href="https://github.com/kirzep/DBDAutoReshade/releases/latest">Portable ZIP and release files</a></p>
 
@@ -32,11 +32,12 @@ Use different ReShade presets for different maps and tired of switching them by 
 2. In the setup wizard, select your game folder and your ReShade presets folder.
 3. Assign your presets and turn on automatic switching.
 
-Requires **Windows 10 or 11 x64**, Dead by Daylight, and ReShade. Set the game language to **English** so AutoReshade can recognize map names. The app interface is available in English and Russian.
+Requires **Windows 10 or 11 x64**, Dead by Daylight, and ReShade. AutoReshade recognizes map names in **English and Russian**. In **Settings → Recognition**, set **Game text language** to the language used in DBD. Windows needs text recognition for that language. The app interface is available in English and Russian.
 
-## What's new in 0.3.9
+## What's new in 0.3.10
 
-- Added Hartshorne Mall in The Subdivisions. You can assign a preset to the map or the entire realm.
-- Improved map recognition when bright, warm backgrounds obscure the title.
+- Added recognition for Russian map names and the match details prompt.
+- Added a warning when the DBD language differs from the language set for recognition.
+- Improved recognition of faint map titles and reduced repeated scans when the match prompt reappears.
 
 [Report an issue](https://github.com/kirzep/DBDAutoReshade/issues)
