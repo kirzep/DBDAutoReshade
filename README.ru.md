@@ -5,7 +5,7 @@
 <h1>AutoReshade</h1>
 <p>Автоматическая смена пресетов ReShade в Dead by Daylight</p>
 
-<a href="https://github.com/kirzep/DBDAutoReshade/releases/download/v0.3.12/AutoReshade-0.3.12-windows-x64-setup.exe"><img src="https://img.shields.io/badge/Скачать-Windows%20x64-28764C?style=for-the-badge" alt="Скачать установщик для Windows x64"></a>
+<a href="https://github.com/kirzep/DBDAutoReshade/releases/download/v0.3.13/AutoReshade-0.3.13-windows-x64-setup.exe"><img src="https://img.shields.io/badge/Скачать-Windows%20x64-28764C?style=for-the-badge" alt="Скачать установщик для Windows x64"></a>
 
 <p><a href="README.md">English</a> · <a href="https://github.com/kirzep/DBDAutoReshade/releases/latest">Portable ZIP и файлы выпуска</a></p>
 
