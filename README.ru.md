@@ -5,7 +5,7 @@
 <h1>AutoReshade</h1>
 <p>Автоматическая смена пресетов ReShade в Dead by Daylight</p>
 
-<a href="https://github.com/kirzep/DBDAutoReshade/releases/download/v0.3.11/AutoReshade-0.3.11-windows-x64-setup.exe"><img src="https://img.shields.io/badge/Скачать-Windows%20x64-28764C?style=for-the-badge" alt="Скачать установщик для Windows x64"></a>
+<a href="https://github.com/kirzep/DBDAutoReshade/releases/download/v0.3.12/AutoReshade-0.3.12-windows-x64-setup.exe"><img src="https://img.shields.io/badge/Скачать-Windows%20x64-28764C?style=for-the-badge" alt="Скачать установщик для Windows x64"></a>
 
 <p><a href="README.md">English</a> · <a href="https://github.com/kirzep/DBDAutoReshade/releases/latest">Portable ZIP и файлы выпуска</a></p>
 
@@ -37,7 +37,7 @@
 ## Что нового в 0.3.11
 
 - В настройках приложения появились тёмная и белая темы, а также Sakuga VFX.
-- В режиме разработчика появился «Сбор карт» для русского и английского DBD. Нажмите на логотип AutoReshade десять раз, затем откройте вкладку и подготовьте своё лобби с четырьмя ботами. Для сбора нужны Python 3 и Pillow.
+- В режиме разработчика появился «Сбор карт» для русского и английского DBD. Нажмите на логотип AutoReshade десять раз, затем откройте вкладку и подготовьте своё лобби с четырьмя ботами.
 - Оверлей показывает ход сбора и пропускает клики в игру. Сбор можно продолжить с сохранённых карт, а скриншоты выбранного языка можно запаковать в ZIP.
 
 [Сообщить об ошибке](https://github.com/kirzep/DBDAutoReshade/issues)

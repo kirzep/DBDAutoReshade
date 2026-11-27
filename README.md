@@ -5,7 +5,7 @@
 <h1>AutoReshade</h1>
 <p>Automatic ReShade preset switching for Dead by Daylight</p>
 
-<a href="https://github.com/kirzep/DBDAutoReshade/releases/download/v0.3.11/AutoReshade-0.3.11-windows-x64-setup.exe"><img src="https://img.shields.io/badge/Download-Windows%20x64-28764C?style=for-the-badge" alt="Download the Windows x64 installer"></a>
+<a href="https://github.com/kirzep/DBDAutoReshade/releases/download/v0.3.12/AutoReshade-0.3.12-windows-x64-setup.exe"><img src="https://img.shields.io/badge/Download-Windows%20x64-28764C?style=for-the-badge" alt="Download the Windows x64 installer"></a>
 
 <p><a href="README.ru.md">Русская версия</a> · <a href="https://github.com/kirzep/DBDAutoReshade/releases/latest">Portable ZIP and release files</a></p>
 
@@ -37,7 +37,7 @@ Requires **Windows 10 or 11 x64**, Dead by Daylight, and ReShade. AutoReshade re
 ## What's new in 0.3.11
 
 - Choose Dark, White, or Sakuga VFX in the application settings.
-- Developer mode now includes Map Capture for English or Russian DBD lobbies with four survivor bots. Open it by clicking the AutoReshade logo ten times. It requires Python 3 with Pillow.
+- Developer mode now includes Map Capture for English or Russian DBD lobbies with four survivor bots. Open it by clicking the AutoReshade logo ten times.
 - Map Capture shows progress in a click-through overlay, can resume from saved maps, and can pack the selected language's screenshots into a ZIP.
 
 [Report an issue](https://github.com/kirzep/DBDAutoReshade/issues)
